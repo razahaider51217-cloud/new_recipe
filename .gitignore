@@ -1,0 +1,9 @@
+# Server A ("server1") is a separate deployment with its own git repository.
+# It is excluded from this repository's main branch on purpose.
+server1/
+
+# Tooling / OS noise
+node_modules/
+Thumbs.db
+.DS_Store
+*.log
