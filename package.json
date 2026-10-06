@@ -2,14 +2,15 @@
   "name": "heirloom-table",
   "version": "1.0.0",
   "private": true,
-  "description": "Static heirloom-vegetable recipe site (Heirloom Table). No dependencies; build and check with Node 18+.",
+  "description": "Static heirloom-vegetable recipe site (Heirloom Table). No dependencies; build, check and serve with Node 18+.",
   "type": "module",
   "scripts": {
     "build": "node scripts/build-site.mjs",
     "check": "node scripts/validate-site.mjs",
-    "verify": "node scripts/build-site.mjs && node scripts/validate-site.mjs"
+    "verify": "node scripts/build-site.mjs && node scripts/validate-site.mjs",
+    "start": "node server.mjs"
   },
   "engines": {
-    "node": ">=18"
+    "node": "24.x"
   }
 }
