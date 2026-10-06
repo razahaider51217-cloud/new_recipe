@@ -1,0 +1,11 @@
+{
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "description": "A static site hosted on Heroku",
+  "scripts": {
+    "start": "serve -l $PORT ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
